@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @georgeroth
 - 👀 I’m interested in music, video games, publishing and leadership.
 - 🌱 I’m currently building my startup, Reverse Records.
-- 📫 You can reach me through my website at georgeroth.eu.
+- 📫 You can reach me through my website at <a href="http://georgeroth.eu">georgeroth.eu</a>.
