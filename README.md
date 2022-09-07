@@ -1,4 +1,4 @@
 - 👋 Hi, I’m <a href="https://github.com/georgeroth">@georgeroth</a>
 - 👀 I’m interested in music, video games, publishing and leadership.
-- 🌱 I’m currently building my startup, <a href="http://reverserecords.com" target="_blank">Reverse Records</a>, a tech-focused music company.
+- 🌱 I’m currently building a startup, <a href="http://reverserecords.com" target="_blank">Reverse Records</a>, a tech-focused music company.
 - 📫 You can reach me through my website at <a href="http://georgeroth.eu" target="_blank">georgeroth.eu</a>.
