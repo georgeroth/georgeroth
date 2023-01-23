@@ -1,5 +1,5 @@
-- 👋 Hi, I’m <a href="https://github.com/georgeroth">@georgeroth</a>, product manager, junior frontend developer and musician.
-- 👀 I’m interested in music, video games, publishing and leadership.
+- 👋 Hi, I’m <a href="https://github.com/georgeroth">@georgeroth</a>, frontend developer, product manager and musician.
+- 👀 I’m interested in building great products, leadership and music.
 - 🌱 I'm building a startup, <a href="https://reverserecords.com" target="_blank">Reverse Records</a>, a tech-focused music company.
 - 📚 I'm currently learning to code with <a href="https://boolean.co.uk">Boolean UK</a> – watch this space grow as I learn new things.
 - 📫 You can reach me through my website at <a href="https://georgeroth.eu" target="_blank">georgeroth.eu</a>.
