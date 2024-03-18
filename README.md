@@ -1,6 +1,6 @@
-- 👋 Hi, I’m <a href="https://github.com/georgeroth">@georgeroth</a>, a technical product manager and musician.
+- 👋 Hi, I’m @georgeroth, a technical product manager and musician.
 - 👀 I’m interested in building great products, leadership and music.
-- 🔴🟡 I work in <a href="https://mastercard.com" target="_blank">Mastercard Open Banking</a> on new ways of payment and data services.
+- 🔴🟡 I work in Mastercard Open Banking on new ways of payment and data services.
 - 🎤 I sing and I build the web presence of a System of a Down cover band called <a href="https://thechopsueys.com/" target="_blank">The Chop Sueys</a>.
-- 📚 I have learnt to code with <a href="https://boolean.co.uk">Boolean UK</a> – watch this space grow as I learn new things.
+- 📚 I have learnt to code with Boolean UK – watch this space grow as I learn new things.
 - 📫 You can reach me through my website at <a href="https://georgeroth.eu" target="_blank">georgeroth.eu</a>.
